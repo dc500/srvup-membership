@@ -1,5 +1,5 @@
 Django==1.7.2
-Pillow==2.7.0
+Pillow==8.1.1
 PyJWT==0.4.1
 braintree==3.10.0
 django-crispy-forms==1.4.0
